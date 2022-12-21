@@ -16,7 +16,7 @@ def main(): #クライアント側
   pygame.display.update() #ディスプレイ更新
 
   running = True #event発生までTrue
-#buhehe
+#buhehegyahaha
   while running: #初期画面(server起動画面)
     for event in pygame.event.get():
       if event.type == QUIT:
